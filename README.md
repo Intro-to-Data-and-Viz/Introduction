@@ -1,2 +1,2 @@
 # Introduction
-The Introduction to This Course
+The Introduction to the course
